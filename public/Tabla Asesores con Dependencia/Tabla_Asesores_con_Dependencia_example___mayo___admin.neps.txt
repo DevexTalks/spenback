@@ -1,0 +1,20 @@
+REGIONAL|OFICINA|OFICINA_BASE|NOMBRE_GERENTE_COMERCIAL|DOCUMENTO|CLAVE_CC|NOMBRE_COORDINADOR_COMERCIAL|DOCUMENTO_COORDINADOR|CARGO|NUMEROASESOR|CLAVE_ASESOR|TIPO_DOCUMENTO|DOCUMENTO_IDENTIDAD|NOMBRE_ASESOR_COMERCIAL|INICIO_RELACION|FINAL_RELACION
+Bogota|Bogota|Corretaje_2|Juan David Osorio Londoño|71775166|CC112|Javier Francisco Navarro|80426461|Asesor Externo|013|C013|CC|19066047|Carlos Gutierrez Riveros|01-mar-11|06-nov-13
+Bogota|Bogota|Corretaje_2|Juan David Osorio Londoño|71775166|CC082|Carlos Cardenas Lopez|79643100|Asesor Externo|013|C013|CC|19066047|Carlos Gutierrez Riveros|07-may-10|30-jun-10
+Bogota|Bogota|Corretaje_2|Juan David Osorio Londoño|71775166|CC093|Gustavo Adolfo Botero|79501814|Asesor Externo|013|C013|CC|19066047|Carlos Gutierrez Riveros|14-jul-10|31-dic-10
+Bogota|Bogota|Bogota|Juan David Osorio Londoño|71775166|CC002|Rosa Esmeralda Moncada Rubiano|20730101|Asesor Comercial|014|A014|CC|79280512|Marco A. Espinoza R|01-ago-08|29-mar-10
+Bogota|Bogota|Corretaje_2|Juan David Osorio Londoño|71775166|CC112|Javier Francisco Navarro|80426461|Asesor Externo|014|C014|CC|51739263|Olga Santos Ramirez|01-mar-11|25-nov-11
+Bogota|Bogota|Corretaje_2|Juan David Osorio Londoño|71775166|CC082|Carlos Cardenas Lopez|79643100|Asesor Externo|014|C014|CC|51739263|Olga Santos Ramirez|07-may-10|30-jun-10
+Bogota|Bogota|Corretaje_2|Juan David Osorio Londoño|71775166|CC093|Gustavo Adolfo Botero|79501814|Asesor Externo|014|C014|CC|51739263|Olga Santos Ramirez|14-jul-10|31-dic-10
+Bogota|Bogota|Bogota|Juan David Osorio Londoño|71775166|CC012|Jorge Hernando Reyes|4242784|Asesor Comercial|015|A015|CC|41775573|Gloria Esperanza Forero Forero|19-ene-09|18-ago-09
+Bogota|Bogota|Bogota|Juan David Osorio Londoño|71775166|CC082|Carlos Cardenas Lopez|79643100|Asesor Externo|015|C015|CC|43281844|Maria Colorado|07-may-10|30-jun-10
+Bogota|Bogota|Bogota|Juan David Osorio Londoño|71775166|CC093|Gustavo Adolfo Botero|79501814|Asesor Externo|015|C015|CC|43281844|Maria Colorado|14-jul-10|02-feb-11
+Bogota|Bogota|Chapinero|Juan David Osorio Londoño|71775166|CC167|Hernando Izquierdo Barbosa|79625857|Asesor Comercial|016|A016|CC|52458142|Nidia Garzon Restrepo|22-nov-13|23-jun-17
+Bogota|Bogota|Chapinero|Juan David Osorio Londoño|71775166|CC296|Vacante Chapinero|0000|Asesor Comercial|016|A016|CC|52458142|Nidia Garzon Restrepo|05-abr-18|08-may-18
+Bogota|Bogota|Chapinero|Juan David Osorio Londoño|71775166|CC275|Vacante Chapinero|0000|Asesor Comercial|016|A016|CC|52458142|Nidia Garzon Restrepo|24-jun-17|16-jul-17
+Bogota|Bogota|Chapinero|Juan David Osorio Londoño|71775166|CC094|Oscar Amaya Morales|79379429|Asesor Comercial|016|A016|CC|52458142|Nidia Garzon Restrepo|14-jul-10|25-oct-13
+Bogota|Bogota|Chapinero|Juan David Osorio Londoño|71775166|CC024|Patricia Marina Mora Valencia|52084092|Asesor Comercial|016|A016|CC|52458142|Nidia Garzon Restrepo|10-may-10|15-jun-10
+Bogota|Bogota|Chapinero|Juan David Osorio Londoño|71775166|CC033|John Ricardo Escobar Torres|79798782|Asesor Comercial|016|A016|CC|52458142|Nidia Garzon Restrepo|19-ago-09|31-dic-09
+Bogota|Bogota|Chapinero|Juan David Osorio Londoño|71775166|CC012|Jorge Hernando Reyes|4242784|Asesor Comercial|016|A016|CC|52458142|Nidia Garzon Restrepo|19-ene-09|18-ago-09
+Bogota|Bogota|Chapinero|Juan David Osorio Londoño|71775166|CC276|Indira Guerrero Montaño|64565000|Asesor Comercial|016|A016|CC|52458142|Nidia Garzon Restrepo|17-jul-17|04-abr-18
+Bogota|Bogota|Chapinero|Juan David Osorio Londoño|71775166|CC046|Juan M Bobabdilla|79446856|Asesor Comercial|016|A016|CC|52458142|Nidia Garzon Restrepo|18-ene-10|07-may-10

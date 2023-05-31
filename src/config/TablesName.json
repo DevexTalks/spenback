@@ -1,0 +1,90 @@
+[
+    {
+        "name": "ABX Unificado Mes",
+        "sql" : ""
+    },
+    {
+        "name": "Afiliaciones Cotizantes Precierre",
+        "sql" : ""
+    },
+    {
+        "name": "Afilxempresa",
+        "sql" : ""
+    },
+    {
+        "name": "Afilxempresa2",
+        "sql" : ""
+    },
+    {
+        "name": "Cambios Documentos",
+        "sql" : ""
+    },
+    {
+        "name": "CompesaciÃ³n Unificada Mes",
+        "sql" : ""
+    },
+    {
+        "name": "Correos Corredores",
+        "sql" : ""
+    },
+    {
+        "name": "Cumplimiento PAC (Externos e Internos)",
+        "sql" : "INSERT INTO `neps_production`.`neps_ne_cumplimiento_pac` (`clave_asesor`, `nombre_asesor_comercial`, `oficina_base`, `canal`, `prima`, `pto_ingresos`, `cumplimiento`) VALUES (?)"
+    },
+    {
+        "name": "Empleadores",
+        "sql" : ""
+    },
+    {
+        "name": "Estructura SAT Consolidado",
+        "sql" : ""
+    },
+    {
+        "name": "FUI",
+        "sql" : ""
+    },
+    {
+        "name": "Historico IPS Afiliado",
+        "sql" : ""
+    },
+    {
+        "name": "Historicos (Aceptados 37 y 41)",
+        "sql" : ""
+    },
+    {
+        "name": "Novedades Cotizantes Precierre",
+        "sql" : ""
+    },
+    {
+        "name": "Panel Empresarial",
+        "sql" : ""
+    },
+    {
+        "name": "Planta Total",
+        "sql" : "INSERT INTO `neps_production`.`neps_ne_planta_total` (`regional`, `zonal`, `oficina`, `clave_gc`, `nombre_gerente_comercial`, `clave_cc`, `clave_asesor`, `tipo_documento`, `documento_identidad`, `nombre_asesor_comercial`, `cargo`) VALUES (?)"
+    },
+    {
+        "name": "PoblaciÃ³n",
+        "sql" : ""
+    },
+    {
+        "name": "R1",
+        "sql" : ""
+    },
+    {
+        "name": "R5",
+        "sql" : ""
+    },
+    {
+        "name": "RadicaciÃ³n",
+        "sql" : ""
+    },
+    {
+        "name": "Reingresos",
+        "sql" : ""
+    },
+    {
+        "name": "Tabla Asesores con Dependencia",
+        "sql" : ""
+    }
+]

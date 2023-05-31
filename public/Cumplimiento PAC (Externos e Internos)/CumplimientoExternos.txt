@@ -1,0 +1,206 @@
+Clave Asesor|Nombre Asesor Comercial|Oficina_Base|Canal|Prima | Pto Ingresos |% Cumplimiento
+C2035|Juanunoa S.A.S.|Medellin Ext|Externo|1551867|88782|1747.9
+N0665|Seguros y Vida Ltda|Bucaramanga Ext|Externo|762567|88782|858.9
+C393|Marlen Gonzalez Aristizabal|Manizales|Externo|653105|88782|735.6
+C2407|Eric Enrique Perez Montes|Barranquilla Ext|Externo|589905|88782|664.4
+C1380|Karen S. Ballestas Zapata|Barranquilla Ext|Externo|589905|88782|664.4
+C2413|MLH Consultores S.A.S.|Cali Ext|Externo|571260|88782|643.4
+C1606|Nelly del Carmen Quiñones Acuña|Monteria|Externo|559952|88782|630.7
+N0128|Diana Marcela Reyes Pelaez|Corretaje_2|Externo|547310|88782|616.5
+C094|Jackeline Vaca Peñaranda|Cucuta|Externo|483459|88782|544.5
+N0429|Ayda Zurella Melendez Espinoza|Cali Ext|Externo|483459|88782|544.5
+C2398|Juan Carlos Torres Delgado|Cali Ext|Externo|468104|88782|527.2
+C485|Jorge E. Ceron Mosquera|Cali Ext|Externo|437259|88782|492.5
+C1585|Diana A. Berrueco Osorio|Medellin Ext|Externo|396599|88782|446.7
+N0189|Luz Angelica Pineda Hurtado|Corretaje_1|Externo|333130|88782|375.2
+C1923|Alba Lucia Gutierrez Melo|Cucuta|Externo|333130|88782|375.2
+N0648|Cesar Augusto Romero Herrera|Medellin Ext|Externo|325795|88782|367
+C2209|Hernando Arenas Guiral|Pereira|Externo|276027|86759|318.2
+C2199|Javier Pineda Marin|Medellin Ext|Externo|268692|88782|302.6
+C1349|Yolanda A. Sierra|Bucaramanga Ext|Externo|229765|88782|258.8
+N0759|Yelixza Maria Brito Belandria|Barranquilla Ext|Externo|229765|88782|258.8
+N0701|Maritza Visbal Duque|Pereira|Externo|205492|86759|236.9
+N0062|Vitalplus Seguridad Social Sas|Corretaje_2|Externo|205492|88782|231.5
+N0705|Oscar Daniel Roa Orejarena|Bucaramanga Ext|Externo|205492|88782|231.5
+C1998|Martha L. Granda Rincon|Medellin Ext|Externo|205492|88782|231.5
+C2437|Alirio de Jesus Ballesteros Quirama|Medellin Ext|Externo|205492|88782|231.5
+C2166|Nelson Bohórquez Castillo|Palmira|Externo|205492|88782|231.5
+C1845|Martha Y. Esparza Neira|Bucaramanga Ext|Externo|195217|88782|219.9
+C1689|Jenny Patricia Castaño Valverde|Cucuta|Externo|166565|88782|187.6
+C2026|Edwin Aldrin Ariza Pinto|Bucaramanga Ext|Externo|166565|88782|187.6
+C1377|Jaime A. Gonzalez Marquez|Bucaramanga Ext|Externo|166565|88782|187.6
+N0861|S y C Seguros Colombia SAS|Cali Ext|Externo|166565|88782|187.6
+C529|Ingrid Gutierrez Hernandez|Medellin Ext|Externo|166565|88782|187.6
+C1824|Martin Alonso Usuga Rojas|Medellin Ext|Externo|166565|88782|187.6
+C1468|Aseintegral del Valle Ltda.|Cali Ext|Externo|166565|88782|187.6
+N0533|Leidy Liliana Alvarez Morelo|Monteria|Externo|159230|88782|179.3
+C2167|Jean C. Martinez Villamizar|Cucuta|Externo|139806|88782|157.5
+C2002|Alexander Zarate Layton|Pereira|Externo|126400|86759|145.7
+C1519|Marta L. Franco Suarez|Bucaramanga Ext|Externo|115067|88782|129.6
+C2016|Beatriz Jimenez Olarte|Medellin Ext|Externo|109462|88782|123.3
+C2431|Grupo Agencias Comerciales Ltda|Corretaje_2|Externo|109462|88782|123.3
+N0417|Jorge H Ramirez EU|Cali Ext|Externo|109462|88782|123.3
+N0859|Alianza Global de Servicios SAS|Cali Ext|Externo|109462|88782|123.3
+N0488|Jhon Sebastian Alvarez Castellanos|Bucaramanga Ext|Externo|109462|88782|123.3
+C2095|Didier J. Agudelo Gonzalez|Pereira|Externo|63200|86759|72.8
+C2133|Celsa R. Fernandez Alvarez|Ibague|Externo|63200|88782|71.2
+C2279|Acción Int.Riesgos Ltda|Corretaje_1|Externo|63200|88782|71.2
+C2328|Tu Afiliación S.A.S|Corretaje_1|Externo|63200|88782|71.2
+C1926|Sandra V. Holguin Gonzalez|Cali Ext|Externo|63200|88782|71.2
+C2340|Ethel Figueroa Lopez|Medellin Ext|Externo|63200|88782|71.2
+C2410|Jefferson Gonzalez Montenegro|Cali Ext|Externo|63200|88782|71.2
+C2271|Working Peoples Ltda|Medellin Ext|Externo|63200|88782|71.2
+N0529|Rosmery Gordillo Reina SAS|Cali Ext|Externo|63200|88782|71.2
+C1120|Victor J. Rueda Carrillo|Bucaramanga Ext|Externo|61317|88782|69.1
+N0076|Estrategia Empresarial As Ltda|Corretaje_2|Externo||88782|0
+C1916|J&J Seguros Integrales Sas|Cucuta|Externo||88782|0
+N0926|Kely Johana Ortiz Rodelo|Barranquilla Ext|Externo||88782|0
+C1584|Corredores de Antioquia Ltda.|Medellin Ext|Externo||88782|0
+C2027|Elkin Yesid Angarita Camargo|Bucaramanga Ext|Externo||88782|0
+C2211|Angela M. Herrera Pastrana|Monteria|Externo||88782|0
+C2034|G.S.R. Consultores|Corretaje_2|Externo||88782|0
+N0443|Jimmy Cediel Vasquez|Corretaje_2|Externo||88782|0
+C1240|Marinelly Galeano Sanchez|Bucaramanga Ext|Externo||88782|0
+N0946|Gladys Marina Ramirez Cubillos|Medellin Ext|Externo||88782|0
+C2060|Margoth Valencia Molano|Cucuta|Externo||88782|0
+C2066|Alba Rocio Avila|Armenia|Externo||88782|0
+C2070|K&J Gestion Y Seguros Sas|Medellin Ext|Externo||88782|0
+C2086|Wilson Garcia Galvis|Bucaramanga Ext|Externo||88782|0
+C2091|J&C Servitemp Sas|Corretaje_2|Externo||88782|0
+C1500|Alba I. Herrera Noreña|Manizales|Externo||88782|0
+C1922|Uba Vihonco S.A.S|Cucuta|Externo||88782|0
+N0505|Dolly Maritza Caycedo Romero|Ibague|Externo||88782|0
+C2100|Eduardo J. Gutierrez Ruiz|Barranquilla Ext|Externo||88782|0
+N0955|Maria Fernanda Aroza Aragon|Cali Ext|Externo||88782|0
+C083|Maria Henao Roa|Medellin Ext|Externo||88782|0
+C2124|Asesorias Y Servicios Gyr Sas|Pereira|Externo||86759|0
+C1195|Carlos Jhonny Noriega S.|Medellin Ext|Externo||88782|0
+C2147|Alianza Soluciones Empre.|Corretaje_1|Externo||88782|0
+C2153|Asesorías Integrales|Corretaje_1|Externo||88782|0
+C1883|Martha Cecilia Rodriguez Angarita|Bucaramanga Ext|Externo||88782|0
+C2161|Daniel A. Naranjo Salgado|Medellin Ext|Externo||88782|0
+C1708|Ricardo Cuadros Alvarez|Cali Ext|Externo||88782|0
+C1482|Corseguro Ltda.|Pereira|Externo||86759|0
+C1925|Sandra V. Holguin Gonzalez|Bucaramanga Ext|Externo||88782|0
+C2180|Jessica P. Arango Peñaranda|Cucuta|Externo||88782|0
+C2188|A.M.C Y Asociados Ltda|Medellin Ext|Externo||88782|0
+C2189|Alvaro Valencia|Medellin Ext|Externo||88782|0
+N0495|Business Healt SAS|Cucuta|Externo||88782|0
+C1310|Asesores C/Ciales Integrales Ltda.|Corretaje_2|Externo||88782|0
+N0872|Lourdes Hurtado Hernandez|Corretaje_1|Externo||88782|0
+C2200|Adriana M. Perez Marin|Armenia|Externo||88782|0
+C2010|Gestiasser S.A.S.|Medellin Ext|Externo||88782|0
+C1106|Pedro A. Rojas Franco|Pereira|Externo||86759|0
+N0948|Esperanza Ester Esmeral Mier|Barranquilla Ext|Externo||88782|0
+C2251|Zoraida Niz Celon|Bucaramanga Ext|Externo||88782|0
+N0937|Villada Seguros Ltda|Cucuta|Externo||88782|0
+C2266|Diana P. Cubillos Cardona|Armenia|Externo||88782|0
+C2267|Diana M. Toro Orozco|Ibague|Externo||88782|0
+C1898|Sandra V. Holguin Gonzalez|Palmira|Externo||88782|0
+C2275|Luz M. Hernandez Albadan|Corretaje_1|Externo||88782|0
+C1941|Asesores Emp. H & M Ltda.|Corretaje_1|Externo||88782|0
+C958|Ana Martha Castañeda|Popayan|Externo||88782|0
+C2285|Brisman E. Pineda Sotelo|Corretaje_1|Externo||88782|0
+C2295|Astrid M. Garcia Pabón|Medellin Ext|Externo||88782|0
+C2305|Erika T. Ramirez Gonzalez|Medellin Ext|Externo||88782|0
+C2307|Asoinger Corredores Seg|Corretaje_1|Externo||88782|0
+C2308|Noas Seguros Ltda|Corretaje_1|Externo||88782|0
+C2312|Mayerly I. Cardona Paez|Corretaje_1|Externo||88782|0
+C1896|Felix Stevens Polo Estacio|Cali Ext|Externo||88782|0
+C1931|Carlos A. Lozano Ricardo|Monteria|Externo||88782|0
+C2331|Martha E. Lopez Gutierrez|Ibague|Externo||88782|0
+C2323|Aristides J. Polo Castañeda|Monteria|Externo||88782|0
+C2336|Maria del Rosario Torrado|Bucaramanga Ext|Externo||88782|0
+C2345|Alvaro Antonio Julio Ojeda|Barranquilla Ext|Externo||88782|0
+C2348|Karen Lorena Campo|Corretaje_2|Externo||88782|0
+C2351|Protekol Asesores Ltda|Corretaje_1|Externo||88782|0
+C1492|Claudia V. Tristancho Lopez|Bucaramanga Ext|Externo||88782|0
+C2353|Dos Seguridad Social|Corretaje_1|Externo||88782|0
+C2356|Alexander Falla Lozano|Armenia|Externo||88782|0
+N0413|Juan Diego Maldonado Cruz|Cali Ext|Externo||88782|0
+C2374|Liliana Amparao Villa Jimenez|Medellin Ext|Externo||88782|0
+C1913|Rafael Antonio Peña Marquez|Barranquilla Ext|Externo||88782|0
+C1724|Zorany Valencia Chavarriaga|Manizales|Externo||88782|0
+C443|Elizabeth Zuluaga|Medellin Ext|Externo||88782|0
+C1586|Gloria N. Echeverri Zapata|Medellin Ext|Externo||88782|0
+C449|William G. Merchan Lazo|Bucaramanga Ext|Externo||88782|0
+N0888|Giset Rincon Avila|Bucaramanga Ext|Externo||88782|0
+C450|Clara Elena del Valle|Pereira|Externo||86759|0
+N0925|Milton Ivan Gil Garcia|Medellin Ext|Externo||88782|0
+N0903|Cesar Augusto Cardona Arcila|Pereira|Externo||86759|0
+N0952|Nelcy Jazmin Correa Garzon|Bucaramanga Ext|Externo||88782|0
+C1794|Daniela Garcia Valencia|Medellin Ext|Externo||88782|0
+C599|Luz Dary Rueda|Bucaramanga Ext|Externo||88782|0
+C646|Consuelo Velasquez|Palmira|Externo||88782|0
+C781|Clarisa Oliveros Ramirez|Ibague|Externo||88782|0
+C881|Carlos Arturo Ramirez|Pereira|Externo||86759|0
+C957|Javier E. Agudelo Gomez|Manizales|Externo||88782|0
+C969|S&J Seguros Eu|Medellin Ext|Externo||88782|0
+C2379|Diana Patricia Marin Marin|Manizales|Externo||88782|0
+C2378|Cesar Augusto Rueda Pico|Bucaramanga Ext|Externo||88782|0
+C2402|Gestion Y Servicios Empresariales del Caribe Sas|Barranquilla Ext|Externo||88782|0
+C1398|Marlyn J. Gonzalez Vence|Santa Marta|Externo||88782|0
+C1439|Mario Marin A|Armenia|Externo||88782|0
+C1987|Carolina Salazar Gonzalez|Cali Ext|Externo||88782|0
+C1910|Sandra V. Holguin Gonzalez|Popayan|Externo||88782|0
+C2420|Gloria Ines Arevalo Pabon|Corretaje_2|Externo||88782|0
+PS84|Punto de Servicio Corretaje 2|Corretaje_2|Externo||88782|0
+C1990|Azeneth Correa Guzman|Medellin Ext|Externo||88782|0
+C2432|Carlos Eduardo Davila Sanchez|Manizales|Externo||88782|0
+N0022|Rodrigo Alfonso Amaya Garcia|Bucaramanga Ext|Externo||88782|0
+N0027|Katherine Florez Peña|Barranquilla Ext|Externo||88782|0
+C2380|Juan David Saldarriaga Munera|Medellin Ext|Externo||88782|0
+C2438|Diana Marcela Sanchez Valencia|Medellin Ext|Externo||88782|0
+C1655|Dario A.Osorio Correa|Monteria|Externo||88782|0
+PS83|Punto de Servicio Corretaje 1|Corretaje_1|Externo||88782|0
+C1932|Abel Antonio Zurita Herrera|Monteria|Externo||88782|0
+C2292|Nelson D. Gutierrez Mestra|Monteria|Externo||88782|0
+C2436|Dallahan Daisy Durango Trujillo|Monteria|Externo||88782|0
+N0579|Claudia Stella Palacio Rendon|Medellin Ext|Externo||88782|0
+N0075|Sandra Rodriguez Roa|Corretaje_2|Externo||88782|0
+N0620|Steven Alberto Vanegas Galindo|Cucuta|Externo||88782|0
+N0083|Maribel Castillo de la Hoz|Barranquilla Ext|Externo||88782|0
+C1991|Macroempresariales Sas|Medellin Ext|Externo||88782|0
+N0102|Cesar Humberto Tovio Paez|Monteria|Externo||88782|0
+C1570|Jeiver Vanegas Otalora|Corretaje_2|Externo||88782|0
+N0175|Olga Lucia Mosquera Arias|Corretaje_1|Externo||88782|0
+N0218|Diana Patricia Escalante Henao|Medellin Ext|Externo||88782|0
+N0466|Sandra Veronica Holguin Gonzalez|Medellin Ext|Externo||88782|0
+N0578|Maria Yuliana Vergara Gomez|Medellin Ext|Externo||88782|0
+C1508|Clarisa I. Rivera Gongora|Ibague|Externo||88782|0
+C1840|Omayra Becerra Arzuza|Barranquilla Ext|Externo||88782|0
+C1577|Luz M. Arteaga Vasquez|Medellin Ext|Externo||88782|0
+N0842|Adalgisa Maria Lopez Cuadrado|Monteria|Externo||88782|0
+N0435|Bleidys Astrid Rincon Sierra|Ibague|Externo||88782|0
+N0827|Luis Guillermo Correa Varela|Pereira|Externo||86759|0
+C2004|Paula A. Jaramillo Linares|Manizales|Externo||88782|0
+C1993|Nelson R. Bermudez Florez|Bucaramanga Ext|Externo||88782|0
+C1167|Diana M. Castañeda Castaño|Medellin Ext|Externo||88782|0
+C1897|Sandra V. Holguin Gonzalez|Corretaje_1|Externo||88782|0
+N0747|Vera Asesores Ltda|Medellin Ext|Externo||88782|0
+N0611|Casilda Cecilia Leone Moyano|Santa Marta|Externo||88782|0
+N0758|Carlos Arturo Vega Ortiz|Barranquilla Ext|Externo||88782|0
+N0775|Eusebio Luis Viloria Herrera|Barranquilla Ext|Externo||88782|0
+N0793|Offitotal Ltda|Corretaje_2|Externo||88782|0
+N0704|Zuli Nathaly Villamizar|Bucaramanga Ext|Externo||88782|0
+N0813|Olga Lucia Molina Valderrama|Bucaramanga Ext|Externo||88782|0
+N0804|Rebeca Garcia Garcia|Santa Marta|Externo||88782|0
+N0824|Gustavo Enrique Assia Theran|Barranquilla Ext|Externo||88782|0
+N0840|Carmen Isaida Garay Ortiz|Monteria|Externo||88782|0
+N0781|Valdivieso Jaramillo y Compañía Limitada Asesoras de Seguros|Corretaje_1|Externo||88782|0
+N0792|Lineth Jurani Pedraza Granados|Corretaje_2|Externo||88782|0
+N0800|Nelson Rodolfo Diaz Velasco|Cucuta|Externo||88782|0
+N0815|Milvia Patricia Acosta Garcia|Monteria|Externo||88782|0
+N0805|Abraham Moises Oliveros Wilches|Santa Marta|Externo||88782|0
+N0828|Jose Ignacio Peña Vanegas|Corretaje_1|Externo||88782|0
+N0825|Proactiva Intermediarios en Seguros SAS|Medellin Ext|Externo||88782|0
+N0841|Carina Lucia Navarro Romero|Monteria|Externo||88782|0
+N0869|Gledys Farneyis Tobias Mejia|Barranquilla Ext|Externo||88782|0
+N0860|Aliados Promotores de Servicios SAS|Cali Ext|Externo||88782|0
+N0867|Claudia Patricia Rojas Rojas|Corretaje_1|Externo||88782|0
+N0866|Vital Plus Salud y Seguros Ltda|Corretaje_2|Externo||88782|0
+N0927|Alfonso Lopez Ochoa|Medellin Ext|Externo||88782|0
+N0953|Ramon Orlando Antolinez Gamboa|Bucaramanga Ext|Externo||88782|0
+N0938|Jose Prudencio Tovar Molinares|Barranquilla Ext|Externo||88782|0
+N0941|Claudia Liliana Cañón Morales|Corretaje_2|Externo||88782|0
+N0954|Carlos Mario Jaramillo Acevedo|Medellin Ext|Externo||88782|0
